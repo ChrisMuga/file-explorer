@@ -13,3 +13,6 @@ A simple directory listing program built in C
 
 ## TODOs
 - Repeat a tab value to distinguish directory nesting
+- Dotfiles (e.g `.git`):
+    - Show/Print entry name
+    - But do __not__ nest
